@@ -1,11 +1,12 @@
 {
   "name": "portfolio",
-  "homepage": "torimiller.info",
+  "homepage": "http://tori-s-miller.github.io/portfolio",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
   "scripts": {
     "start": "node server",
+    "predeploy": "npm run build",
     "build": "react-scripts build",
     "server": "nodemon",
     "client": "npm start --prefix client",
@@ -24,6 +25,7 @@
   },
   "devDependencies": {
     "concurrently": "^5.2.0",
+    "gh-pages": "^6.1.1",
     "nodemon": "^2.0.4"
   }
 }
