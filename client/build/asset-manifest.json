@@ -1,29 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.bc8f6e70.chunk.css",
-    "main.js": "/static/js/main.d9763c0a.chunk.js",
-    "main.js.map": "/static/js/main.d9763c0a.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.8c40394c.js",
-    "runtime-main.js.map": "/static/js/runtime-main.8c40394c.js.map",
-    "static/js/2.229ff735.chunk.js": "/static/js/2.229ff735.chunk.js",
-    "static/js/2.229ff735.chunk.js.map": "/static/js/2.229ff735.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.b6b24d3aa0ec0420dffd4579675ef793.js": "/precache-manifest.b6b24d3aa0ec0420dffd4579675ef793.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.bc8f6e70.chunk.css.map": "/static/css/main.bc8f6e70.chunk.css.map",
-    "static/js/2.229ff735.chunk.js.LICENSE.txt": "/static/js/2.229ff735.chunk.js.LICENSE.txt",
-    "static/media/autolog.png": "/static/media/autolog.b6a12f8f.png",
-    "static/media/code4pdx.png": "/static/media/code4pdx.0cbb1a5b.png",
-    "static/media/github.svg": "/static/media/github.9a72f1a7.svg",
-    "static/media/gooddog.png": "/static/media/gooddog.55cda853.png",
-    "static/media/tori-miller-resume.pdf": "/static/media/tori-miller-resume.e88c0809.pdf",
-    "static/media/twitter.png": "/static/media/twitter.f0d73a1e.png",
-    "static/media/website.svg": "/static/media/website.df897e7e.svg"
+    "main.css": "/portfolio/static/css/main.c86468a0.css",
+    "main.js": "/portfolio/static/js/main.4be3e422.js",
+    "static/media/tori-miller-resume.pdf": "/portfolio/static/media/tori-miller-resume.e620ed4d9aa0b923f9dc.pdf",
+    "static/media/twitter.png": "/portfolio/static/media/twitter.32d19550fbbcdded9b10.png",
+    "static/media/autolog.png": "/portfolio/static/media/autolog.6da68c5d292ac4af59a7.png",
+    "static/media/code4pdx.png": "/portfolio/static/media/code4pdx.93f766ab051f24c7b89c.png",
+    "static/media/gooddog.png": "/portfolio/static/media/gooddog.51f51fa147c0b9012354.png",
+    "static/media/github.svg": "/portfolio/static/media/github.d5b7c99763ad8032d22e6387648f68ce.svg",
+    "static/media/website.svg": "/portfolio/static/media/website.4f863dddc5a61bf40bf2eefc209ec6e4.svg",
+    "index.html": "/portfolio/index.html",
+    "main.c86468a0.css.map": "/portfolio/static/css/main.c86468a0.css.map",
+    "main.4be3e422.js.map": "/portfolio/static/js/main.4be3e422.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.8c40394c.js",
-    "static/js/2.229ff735.chunk.js",
-    "static/css/main.bc8f6e70.chunk.css",
-    "static/js/main.d9763c0a.chunk.js"
+    "static/css/main.c86468a0.css",
+    "static/js/main.4be3e422.js"
   ]
 }
